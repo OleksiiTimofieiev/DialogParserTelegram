@@ -1,0 +1,9 @@
+{
+    "api_id": "...",
+    "api_hash": "...",
+    "chats_to_monitor": ["chat name", "chat name"],
+    "msg_to_monitor": 1000,
+    "keywords": ["keyword", "keyword"],
+    "days_to_monitor" : 30,
+    "phone": "..."
+}
